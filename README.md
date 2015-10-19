@@ -112,8 +112,6 @@
 		<td width="571" style="border: 1px solid #000001; padding: 0in">
 			<p class="western" style="margin-left: 0in; text-indent: 0in; margin-bottom: 0.03in">
 			       Chapter 8 – A Second Look at Classes and Objects</p>
-			<p class="western" style="margin-left: 0in; text-indent: 0in">    
-			  <b>Exam II</b></p>
 		</td>
 	</tr>
 	<tr valign="top">
@@ -122,6 +120,8 @@
 		</td>
 		<td width="571" style="border: 1px solid #000001; padding: 0in">
 			<p class="western">Chapter 8, cont.</p>
+			<p class="western" style="margin-left: 0in; text-indent: 0in">    
+			  <b>Exam II</b></p>
 		</td>
 	</tr>
 	<tr valign="top">
