@@ -1,0 +1,24 @@
+[submodule "assignments/CPT-163-27-F2015-Assignment-3-loops"]
+	path = assignments/CPT-163-27-F2015-Assignment-3-loops
+	url = git@github.com:WCCCEDU/CPT-163-27-F2015-Assignment-3-loops.git
+[submodule "assignments/CPT-163-27-F2015-Assignment-2-conditions"]
+	path = assignments/CPT-163-27-F2015-Assignment-2-conditions
+	url = git@github.com:WCCCEDU/CPT-163-27-F2015-Assignment-2-conditions.git
+[submodule "assignments/CPT-163-27-F2015-Assignment-4-methods"]
+	path = assignments/CPT-163-27-F2015-Assignment-4-methods
+	url = git@github.com:WCCCEDU/CPT-163-27-F2015-Assignment-4-methods.git
+[submodule "assignments/CPT-163-27-F2015-Assignment-5-objects"]
+	path = assignments/CPT-163-27-F2015-Assignment-5-objects
+	url = git@github.com:WCCCEDU/CPT-163-27-F2015-Assignment-5-objects.git
+[submodule "assignments/CPT-163-27-F2015-Assignment-6-DRY-Refactoring"]
+	path = assignments/CPT-163-27-F2015-Assignment-6-DRY-Refactoring
+	url = https://github.com/WCCCEDU/CPT-163-27-F2015-Assignment-6-DRY-Refactoring
+[submodule "assignments/CPT-163-27-F2015-Assignment-7-Array-DiceTower"]
+	path = assignments/CPT-163-27-F2015-Assignment-7-Array-DiceTower
+	url = https://github.com/WCCCEDU/CPT-163-27-F2015-Assignment-7-Array-DiceTower
+[submodule "assignments/CPT-163-27-F2015-Assignment-8-Interfaces-DiceTower"]
+	path = assignments/CPT-163-27-F2015-Assignment-8-Interfaces-DiceTower
+	url = git@github.com:WCCCEDU/CPT-163-27-F2015-Assignment-8-Interfaces-DiceTower.git
+[submodule "assignments/CPT-163-27-F2015-Assignment-9-Files-Strings"]
+	path = assignments/CPT-163-27-F2015-Assignment-9-Files-Strings
+	url = git@github.com:WCCCEDU/CPT-163-27-F2015-Assignment-9-Files-Strings.git
