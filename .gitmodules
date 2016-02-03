@@ -22,3 +22,24 @@
 [submodule "assignments/CPT-163-27-F2015-Assignment-9-Files-Strings"]
 	path = assignments/CPT-163-27-F2015-Assignment-9-Files-Strings
 	url = git@github.com:WCCCEDU/CPT-163-27-F2015-Assignment-9-Files-Strings.git
+[submodule "tests/test_two/CPT-163-Test-Two-Todo"]
+	path = tests/test_two/CPT-163-Test-Two-Todo
+	url = git@github.com:WCCCEDU/CPT-163-Test-Two-Todo.git
+[submodule "tests/test_two/CPT-163-Test-Two-Player"]
+	path = tests/test_two/CPT-163-Test-Two-Player
+	url = git@github.com:WCCCEDU/CPT-163-Test-Two-Player.git
+[submodule "notes/CPT-163-27-F2015-CSV-Writer"]
+	path = notes/CPT-163-27-F2015-CSV-Writer
+	url = git@github.com:WCCCEDU/CPT-163-27-F2015-CSV-Writer.git
+[submodule "notes/CPT-163-JAVA-reading-files"]
+	path = notes/CPT-163-JAVA-reading-files
+	url = git@github.com:WCCCEDU/CPT-163-JAVA-reading-files.git
+[submodule "notes/CPT-163-SOLID"]
+	path = notes/CPT-163-SOLID
+	url = git@github.com:WCCCEDU/CPT-163-SOLID.git
+[submodule "notes/CPT-163-DRY-RetailItem-Example"]
+	path = notes/CPT-163-DRY-RetailItem-Example
+	url = git@github.com:WCCCEDU/CPT-163-DRY-RetailItem-Example.git
+[submodule "notes/CPT-163-ObjectsDemo1"]
+	path = notes/CPT-163-ObjectsDemo1
+	url = git@github.com:WCCCEDU/CPT-163-ObjectsDemo1.git
